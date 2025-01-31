@@ -2,8 +2,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border-style: dashed;
+    border-style:ridge;
     border-color: blueviolet;
+    border-width: 10px;
     width: 30%;
     height: auto;
     margin: 2%;
@@ -26,7 +27,7 @@
 
 #recipe_card a {
     font-weight: bold;
-    font-size: larger;
+    font-size: x-large;
 }
 
 #page_header {
@@ -59,6 +60,10 @@
     align-items: center;
     padding: 1%;
     background-color: aqua;
+    border-style: outset;
+    border-color: aquamarine;
+    border-radius: 5%;
+    border-width: 20px;
 }
 
 #recipe_menu li{    /*selects all elements li within id recipe_menu*/
@@ -86,6 +91,10 @@
 
 .page_title_text {
     padding: 20px;
+}
+
+.food_quote {
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 body {
