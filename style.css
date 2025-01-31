@@ -1,13 +1,17 @@
-.recipe_card {
+#recipe_card {
     border-style: dashed;
     border-color: tomato;
 }
 
-.recipe_card_image {
-    max-height: 100px;
-    height: auto;
+#recipe_card_image {
+    width: 50px;
+}
+
+#page_header {
+    background-color: greenyellow;
 }
 
 body {
     background-color: lightcoral;
+    text-align: center;
 }
