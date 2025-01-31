@@ -4,7 +4,8 @@
 }
 
 #recipe_card_image {
-    width: 50px;
+    width: 200px;
+    list-style-type: none;
 }
 
 #page_header {
