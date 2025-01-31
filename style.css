@@ -3,6 +3,11 @@
     border-color: tomato;
 }
 
+.recipe_card_image {
+    max-height: 100px;
+    height: auto;
+}
+
 body {
     background-color: lightcoral;
 }
