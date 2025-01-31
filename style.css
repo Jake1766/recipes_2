@@ -15,12 +15,18 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 0;
 }
 
 #recipe_card_image img { /*id type selector, selects */
     width: 100%;
     height: auto;
     list-style-type: none;
+}
+
+#recipe_card a {
+    font-weight: bold;
+    font-size: larger;
 }
 
 #page_header {
