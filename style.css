@@ -19,6 +19,9 @@
 }
 
 #page_header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: greenyellow;
     width: 100%;
     margin: 0px;
@@ -27,6 +30,11 @@
     border-color: green;
     border-width: 15px;
     border-radius: 5%;
+}
+
+#page_header img { /*selects for img elements within element #page header*/
+    width: 10%;
+    height: 10uto;
 }
 
 #recipe_menu {
@@ -43,6 +51,10 @@
     display: flex;
     justify-content: center; /*centers horizontally */
     align-items: center;    /* centers vertically */
+}
+
+.page_title {
+    margin: 10%;
 }
 
 body {
