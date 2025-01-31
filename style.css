@@ -33,8 +33,11 @@
 }
 
 #page_header img { /*selects for img elements within element #page header*/
-    width: 10%;
-    height: 10uto;
+    width: 5rem;
+    height: auto;
+    border-style: groove;
+    border-radius: 10%;
+    border-color: blueviolet;
 }
 
 #recipe_menu {
@@ -54,7 +57,11 @@
 }
 
 .page_title {
-    margin: 10%;
+
+}
+
+.page_title_text {
+    padding: 20px;
 }
 
 body {
@@ -64,6 +71,7 @@ body {
     align-items: center;
     background-color: lightcoral;
     text-align: center;
+    font-family:cursive
 
 }
 
