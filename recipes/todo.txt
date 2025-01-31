@@ -1,14 +1,14 @@
 
 ---- index.html ----
-- remove duplication glitch lmao
-- place recipes into unordered list 
+- remove duplication glitch lmao X
+- place recipes into unordered list X 
 - figure out basic styling 
-    - colour palette (green and light pink)
-    - header/banner
+    - colour palette (green and light pink) X
+     - header/banner 
     - spiral gifs
-    - make recipe images regular sizes
+    - make recipe images regular sizes X
 
 
 
 ---- recipe pages ----
-- replace images
+- replace images X

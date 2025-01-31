@@ -1,6 +1,9 @@
 #recipe_card {
     border-style: dashed;
     border-color: blueviolet;
+    width: 40%;
+    height: auto;
+    margin: 2%
 }
 
 #recipe_card_image {
@@ -15,4 +18,8 @@
 body {
     background-color: lightcoral;
     text-align: center;
+}
+
+li {
+    list-style: none;
 }
