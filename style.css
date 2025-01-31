@@ -93,9 +93,11 @@
 
 .page_title_text {
     padding: 20px;
+    text-decoration: underline;
 }
 
 .food_quote {
+    margin:5px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -104,7 +106,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: lightcoral;
+    background-color: purple;
     text-align: center;
     font-family:cursive
 
